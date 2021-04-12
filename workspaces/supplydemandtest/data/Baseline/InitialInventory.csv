@@ -1,0 +1,631 @@
+Products,Markets,value
+200S,US,27
+200S,Canada,31
+200S,Brazil,30
+200S,Argentina,21
+200S,UK,24
+200S,France,28
+200S,Germany,7
+200S,Spain,23
+200S,Italy,11
+200S,China,29
+200S,Japan,21
+200S,Americas#,0
+200S,EMEA#,0
+200S,APAC#,0
+200S,Total Market#,0
+300S,US,9
+300S,Canada,7
+300S,Brazil,21
+300S,Argentina,15
+300S,UK,9
+300S,France,36
+300S,Germany,12
+300S,Spain,7
+300S,Italy,2
+300S,China,11
+300S,Japan,4
+300S,Americas#,0
+300S,EMEA#,0
+300S,APAC#,0
+300S,Total Market#,0
+600S,US,2
+600S,Canada,25
+600S,Brazil,24
+600S,Argentina,25
+600S,UK,9
+600S,France,39
+600S,Germany,36
+600S,Spain,23
+600S,Italy,27
+600S,China,33
+600S,Japan,7
+600S,Americas#,0
+600S,EMEA#,0
+600S,APAC#,0
+600S,Total Market#,0
+626S,US,24
+626S,Canada,17
+626S,Brazil,9
+626S,Argentina,37
+626S,UK,10
+626S,France,7
+626S,Germany,7
+626S,Spain,6
+626S,Italy,8
+626S,China,26
+626S,Japan,28
+626S,Americas#,0
+626S,EMEA#,0
+626S,APAC#,0
+626S,Total Market#,0
+676S,US,16
+676S,Canada,7
+676S,Brazil,3
+676S,Argentina,30
+676S,UK,9
+676S,France,28
+676S,Germany,37
+676S,Spain,15
+676S,Italy,35
+676S,China,19
+676S,Japan,16
+676S,Americas#,0
+676S,EMEA#,0
+676S,APAC#,0
+676S,Total Market#,0
+676RS,US,34
+676RS,Canada,5
+676RS,Brazil,19
+676RS,Argentina,28
+676RS,UK,8
+676RS,France,12
+676RS,Germany,19
+676RS,Spain,21
+676RS,Italy,12
+676RS,China,12
+676RS,Japan,24
+676RS,Americas#,0
+676RS,EMEA#,0
+676RS,APAC#,0
+676RS,Total Market#,0
+900S,US,3
+900S,Canada,35
+900S,Brazil,12
+900S,Argentina,12
+900S,UK,38
+900S,France,14
+900S,Germany,14
+900S,Spain,20
+900S,Italy,7
+900S,China,4
+900S,Japan,13
+900S,Americas#,0
+900S,EMEA#,0
+900S,APAC#,0
+900S,Total Market#,0
+929S,US,36
+929S,Canada,14
+929S,Brazil,5
+929S,Argentina,4
+929S,UK,18
+929S,France,39
+929S,Germany,5
+929S,Spain,31
+929S,Italy,13
+929S,China,22
+929S,Japan,7
+929S,Americas#,0
+929S,EMEA#,0
+929S,APAC#,0
+929S,Total Market#,0
+996S,US,23
+996S,Canada,29
+996S,Brazil,3
+996S,Argentina,32
+996S,UK,16
+996S,France,17
+996S,Germany,16
+996S,Spain,28
+996S,Italy,8
+996S,China,33
+996S,Japan,17
+996S,Americas#,0
+996S,EMEA#,0
+996S,APAC#,0
+996S,Total Market#,0
+996RS,US,5
+996RS,Canada,24
+996RS,Brazil,32
+996RS,Argentina,16
+996RS,UK,18
+996RS,France,8
+996RS,Germany,11
+996RS,Spain,24
+996RS,Italy,24
+996RS,China,2
+996RS,Japan,8
+996RS,Americas#,0
+996RS,EMEA#,0
+996RS,APAC#,0
+996RS,Total Market#,0
+RoadStar,US,29
+RoadStar,Canada,34
+RoadStar,Brazil,27
+RoadStar,Argentina,35
+RoadStar,UK,12
+RoadStar,France,31
+RoadStar,Germany,30
+RoadStar,Spain,28
+RoadStar,Italy,37
+RoadStar,China,11
+RoadStar,Japan,25
+RoadStar,Americas#,0
+RoadStar,EMEA#,0
+RoadStar,APAC#,0
+RoadStar,Total Market#,0
+RoadLiner,US,5
+RoadLiner,Canada,28
+RoadLiner,Brazil,35
+RoadLiner,Argentina,21
+RoadLiner,UK,13
+RoadLiner,France,18
+RoadLiner,Germany,21
+RoadLiner,Spain,27
+RoadLiner,Italy,14
+RoadLiner,China,21
+RoadLiner,Japan,9
+RoadLiner,Americas#,0
+RoadLiner,EMEA#,0
+RoadLiner,APAC#,0
+RoadLiner,Total Market#,0
+Victory,US,32
+Victory,Canada,29
+Victory,Brazil,24
+Victory,Argentina,10
+Victory,UK,12
+Victory,France,16
+Victory,Germany,25
+Victory,Spain,13
+Victory,Italy,29
+Victory,China,27
+Victory,Japan,4
+Victory,Americas#,0
+Victory,EMEA#,0
+Victory,APAC#,0
+Victory,Total Market#,0
+Boulevard,US,28
+Boulevard,Canada,17
+Boulevard,Brazil,3
+Boulevard,Argentina,12
+Boulevard,UK,13
+Boulevard,France,9
+Boulevard,Germany,1
+Boulevard,Spain,34
+Boulevard,Italy,26
+Boulevard,China,33
+Boulevard,Japan,27
+Boulevard,Americas#,0
+Boulevard,EMEA#,0
+Boulevard,APAC#,0
+Boulevard,Total Market#,0
+KingTwin,US,12
+KingTwin,Canada,17
+KingTwin,Brazil,7
+KingTwin,Argentina,28
+KingTwin,UK,27
+KingTwin,France,32
+KingTwin,Germany,39
+KingTwin,Spain,29
+KingTwin,Italy,22
+KingTwin,China,26
+KingTwin,Japan,15
+KingTwin,Americas#,0
+KingTwin,EMEA#,0
+KingTwin,APAC#,0
+KingTwin,Total Market#,0
+MegaTwin,US,22
+MegaTwin,Canada,9
+MegaTwin,Brazil,27
+MegaTwin,Argentina,29
+MegaTwin,UK,11
+MegaTwin,France,30
+MegaTwin,Germany,12
+MegaTwin,Spain,9
+MegaTwin,Italy,29
+MegaTwin,China,0
+MegaTwin,Japan,19
+MegaTwin,Americas#,0
+MegaTwin,EMEA#,0
+MegaTwin,APAC#,0
+MegaTwin,Total Market#,0
+ST900,US,14
+ST900,Canada,3
+ST900,Brazil,6
+ST900,Argentina,25
+ST900,UK,14
+ST900,France,21
+ST900,Germany,13
+ST900,Spain,14
+ST900,Italy,18
+ST900,China,18
+ST900,Japan,15
+ST900,Americas#,0
+ST900,EMEA#,0
+ST900,APAC#,0
+ST900,Total Market#,0
+ST1200,US,19
+ST1200,Canada,4
+ST1200,Brazil,19
+ST1200,Argentina,29
+ST1200,UK,31
+ST1200,France,27
+ST1200,Germany,9
+ST1200,Spain,32
+ST1200,Italy,22
+ST1200,China,33
+ST1200,Japan,33
+ST1200,Americas#,0
+ST1200,EMEA#,0
+ST1200,APAC#,0
+ST1200,Total Market#,0
+ST1200R,US,25
+ST1200R,Canada,22
+ST1200R,Brazil,5
+ST1200R,Argentina,16
+ST1200R,UK,36
+ST1200R,France,23
+ST1200R,Germany,11
+ST1200R,Spain,16
+ST1200R,Italy,3
+ST1200R,China,29
+ST1200R,Japan,18
+ST1200R,Americas#,0
+ST1200R,EMEA#,0
+ST1200R,APAC#,0
+ST1200R,Total Market#,0
+Bandit 900,US,18
+Bandit 900,Canada,20
+Bandit 900,Brazil,35
+Bandit 900,Argentina,22
+Bandit 900,UK,36
+Bandit 900,France,34
+Bandit 900,Germany,9
+Bandit 900,Spain,16
+Bandit 900,Italy,36
+Bandit 900,China,18
+Bandit 900,Japan,17
+Bandit 900,Americas#,0
+Bandit 900,EMEA#,0
+Bandit 900,APAC#,0
+Bandit 900,Total Market#,0
+Bandit 1200,US,32
+Bandit 1200,Canada,21
+Bandit 1200,Brazil,22
+Bandit 1200,Argentina,28
+Bandit 1200,UK,38
+Bandit 1200,France,7
+Bandit 1200,Germany,19
+Bandit 1200,Spain,36
+Bandit 1200,Italy,12
+Bandit 1200,China,34
+Bandit 1200,Japan,11
+Bandit 1200,Americas#,0
+Bandit 1200,EMEA#,0
+Bandit 1200,APAC#,0
+Bandit 1200,Total Market#,0
+Bandit 1200S,US,20
+Bandit 1200S,Canada,21
+Bandit 1200S,Brazil,10
+Bandit 1200S,Argentina,30
+Bandit 1200S,UK,23
+Bandit 1200S,France,33
+Bandit 1200S,Germany,19
+Bandit 1200S,Spain,4
+Bandit 1200S,Italy,9
+Bandit 1200S,China,27
+Bandit 1200S,Japan,30
+Bandit 1200S,Americas#,0
+Bandit 1200S,EMEA#,0
+Bandit 1200S,APAC#,0
+Bandit 1200S,Total Market#,0
+Enduro 350,US,21
+Enduro 350,Canada,1
+Enduro 350,Brazil,9
+Enduro 350,Argentina,26
+Enduro 350,UK,3
+Enduro 350,France,36
+Enduro 350,Germany,3
+Enduro 350,Spain,33
+Enduro 350,Italy,1
+Enduro 350,China,31
+Enduro 350,Japan,26
+Enduro 350,Americas#,0
+Enduro 350,EMEA#,0
+Enduro 350,APAC#,0
+Enduro 350,Total Market#,0
+Enduro 450,US,19
+Enduro 450,Canada,9
+Enduro 450,Brazil,22
+Enduro 450,Argentina,6
+Enduro 450,UK,20
+Enduro 450,France,24
+Enduro 450,Germany,34
+Enduro 450,Spain,13
+Enduro 450,Italy,12
+Enduro 450,China,17
+Enduro 450,Japan,25
+Enduro 450,Americas#,0
+Enduro 450,EMEA#,0
+Enduro 450,APAC#,0
+Enduro 450,Total Market#,0
+Enduro 550,US,30
+Enduro 550,Canada,21
+Enduro 550,Brazil,8
+Enduro 550,Argentina,19
+Enduro 550,UK,17
+Enduro 550,France,13
+Enduro 550,Germany,30
+Enduro 550,Spain,19
+Enduro 550,Italy,32
+Enduro 550,China,34
+Enduro 550,Japan,28
+Enduro 550,Americas#,0
+Enduro 550,EMEA#,0
+Enduro 550,APAC#,0
+Enduro 550,Total Market#,0
+CRX500,US,20
+CRX500,Canada,9
+CRX500,Brazil,24
+CRX500,Argentina,29
+CRX500,UK,27
+CRX500,France,21
+CRX500,Germany,20
+CRX500,Spain,18
+CRX500,Italy,35
+CRX500,China,17
+CRX500,Japan,29
+CRX500,Americas#,0
+CRX500,EMEA#,0
+CRX500,APAC#,0
+CRX500,Total Market#,0
+CRS550,US,32
+CRS550,Canada,26
+CRS550,Brazil,36
+CRS550,Argentina,37
+CRS550,UK,37
+CRS550,France,22
+CRS550,Germany,20
+CRS550,Spain,21
+CRS550,Italy,23
+CRS550,China,8
+CRS550,Japan,7
+CRS550,Americas#,0
+CRS550,EMEA#,0
+CRS550,APAC#,0
+CRS550,Total Market#,0
+CRX600,US,22
+CRX600,Canada,3
+CRX600,Brazil,35
+CRX600,Argentina,16
+CRX600,UK,13
+CRX600,France,18
+CRX600,Germany,6
+CRX600,Spain,16
+CRX600,Italy,23
+CRX600,China,24
+CRX600,Japan,25
+CRX600,Americas#,0
+CRX600,EMEA#,0
+CRX600,APAC#,0
+CRX600,Total Market#,0
+CRX650,US,14
+CRX650,Canada,21
+CRX650,Brazil,33
+CRX650,Argentina,21
+CRX650,UK,34
+CRX650,France,17
+CRX650,Germany,12
+CRX650,Spain,33
+CRX650,Italy,23
+CRX650,China,14
+CRX650,Japan,28
+CRX650,Americas#,0
+CRX650,EMEA#,0
+CRX650,APAC#,0
+CRX650,Total Market#,0
+Street#,US,0
+Street#,Canada,0
+Street#,Brazil,0
+Street#,Argentina,0
+Street#,UK,0
+Street#,France,0
+Street#,Germany,0
+Street#,Spain,0
+Street#,Italy,0
+Street#,China,0
+Street#,Japan,0
+Street#,Americas#,0
+Street#,EMEA#,0
+Street#,APAC#,0
+Street#,Total Market#,0
+Cruiser#,US,0
+Cruiser#,Canada,0
+Cruiser#,Brazil,0
+Cruiser#,Argentina,0
+Cruiser#,UK,0
+Cruiser#,France,0
+Cruiser#,Germany,0
+Cruiser#,Spain,0
+Cruiser#,Italy,0
+Cruiser#,China,0
+Cruiser#,Japan,0
+Cruiser#,Americas#,0
+Cruiser#,EMEA#,0
+Cruiser#,APAC#,0
+Cruiser#,Total Market#,0
+Touring#,US,0
+Touring#,Canada,0
+Touring#,Brazil,0
+Touring#,Argentina,0
+Touring#,UK,0
+Touring#,France,0
+Touring#,Germany,0
+Touring#,Spain,0
+Touring#,Italy,0
+Touring#,China,0
+Touring#,Japan,0
+Touring#,Americas#,0
+Touring#,EMEA#,0
+Touring#,APAC#,0
+Touring#,Total Market#,0
+Off-Road#,US,0
+Off-Road#,Canada,0
+Off-Road#,Brazil,0
+Off-Road#,Argentina,0
+Off-Road#,UK,0
+Off-Road#,France,0
+Off-Road#,Germany,0
+Off-Road#,Spain,0
+Off-Road#,Italy,0
+Off-Road#,China,0
+Off-Road#,Japan,0
+Off-Road#,Americas#,0
+Off-Road#,EMEA#,0
+Off-Road#,APAC#,0
+Off-Road#,Total Market#,0
+Total Product Types#,US,0
+Total Product Types#,Canada,0
+Total Product Types#,Brazil,0
+Total Product Types#,Argentina,0
+Total Product Types#,UK,0
+Total Product Types#,France,0
+Total Product Types#,Germany,0
+Total Product Types#,Spain,0
+Total Product Types#,Italy,0
+Total Product Types#,China,0
+Total Product Types#,Japan,0
+Total Product Types#,Americas#,0
+Total Product Types#,EMEA#,0
+Total Product Types#,APAC#,0
+Total Product Types#,Total Market#,0
+Total Product Maturities#,US,0
+Total Product Maturities#,Canada,0
+Total Product Maturities#,Brazil,0
+Total Product Maturities#,Argentina,0
+Total Product Maturities#,UK,0
+Total Product Maturities#,France,0
+Total Product Maturities#,Germany,0
+Total Product Maturities#,Spain,0
+Total Product Maturities#,Italy,0
+Total Product Maturities#,China,0
+Total Product Maturities#,Japan,0
+Total Product Maturities#,Americas#,0
+Total Product Maturities#,EMEA#,0
+Total Product Maturities#,APAC#,0
+Total Product Maturities#,Total Market#,0
+Phase-Out#,US,0
+Phase-Out#,Canada,0
+Phase-Out#,Brazil,0
+Phase-Out#,Argentina,0
+Phase-Out#,UK,0
+Phase-Out#,France,0
+Phase-Out#,Germany,0
+Phase-Out#,Spain,0
+Phase-Out#,Italy,0
+Phase-Out#,China,0
+Phase-Out#,Japan,0
+Phase-Out#,Americas#,0
+Phase-Out#,EMEA#,0
+Phase-Out#,APAC#,0
+Phase-Out#,Total Market#,0
+Established#,US,0
+Established#,Canada,0
+Established#,Brazil,0
+Established#,Argentina,0
+Established#,UK,0
+Established#,France,0
+Established#,Germany,0
+Established#,Spain,0
+Established#,Italy,0
+Established#,China,0
+Established#,Japan,0
+Established#,Americas#,0
+Established#,EMEA#,0
+Established#,APAC#,0
+Established#,Total Market#,0
+New Introduction#,US,0
+New Introduction#,Canada,0
+New Introduction#,Brazil,0
+New Introduction#,Argentina,0
+New Introduction#,UK,0
+New Introduction#,France,0
+New Introduction#,Germany,0
+New Introduction#,Spain,0
+New Introduction#,Italy,0
+New Introduction#,China,0
+New Introduction#,Japan,0
+New Introduction#,Americas#,0
+New Introduction#,EMEA#,0
+New Introduction#,APAC#,0
+New Introduction#,Total Market#,0
+Total Product Price Level#,US,0
+Total Product Price Level#,Canada,0
+Total Product Price Level#,Brazil,0
+Total Product Price Level#,Argentina,0
+Total Product Price Level#,UK,0
+Total Product Price Level#,France,0
+Total Product Price Level#,Germany,0
+Total Product Price Level#,Spain,0
+Total Product Price Level#,Italy,0
+Total Product Price Level#,China,0
+Total Product Price Level#,Japan,0
+Total Product Price Level#,Americas#,0
+Total Product Price Level#,EMEA#,0
+Total Product Price Level#,APAC#,0
+Total Product Price Level#,Total Market#,0
+Entry Level#,US,0
+Entry Level#,Canada,0
+Entry Level#,Brazil,0
+Entry Level#,Argentina,0
+Entry Level#,UK,0
+Entry Level#,France,0
+Entry Level#,Germany,0
+Entry Level#,Spain,0
+Entry Level#,Italy,0
+Entry Level#,China,0
+Entry Level#,Japan,0
+Entry Level#,Americas#,0
+Entry Level#,EMEA#,0
+Entry Level#,APAC#,0
+Entry Level#,Total Market#,0
+Mid-Range#,US,0
+Mid-Range#,Canada,0
+Mid-Range#,Brazil,0
+Mid-Range#,Argentina,0
+Mid-Range#,UK,0
+Mid-Range#,France,0
+Mid-Range#,Germany,0
+Mid-Range#,Spain,0
+Mid-Range#,Italy,0
+Mid-Range#,China,0
+Mid-Range#,Japan,0
+Mid-Range#,Americas#,0
+Mid-Range#,EMEA#,0
+Mid-Range#,APAC#,0
+Mid-Range#,Total Market#,0
+High-End#,US,0
+High-End#,Canada,0
+High-End#,Brazil,0
+High-End#,Argentina,0
+High-End#,UK,0
+High-End#,France,0
+High-End#,Germany,0
+High-End#,Spain,0
+High-End#,Italy,0
+High-End#,China,0
+High-End#,Japan,0
+High-End#,Americas#,0
+High-End#,EMEA#,0
+High-End#,APAC#,0
+High-End#,Total Market#,0

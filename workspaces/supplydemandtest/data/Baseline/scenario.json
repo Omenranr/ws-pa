@@ -1,0 +1,59 @@
+{
+  "Plants": {
+    "category": "input"
+  },
+  "kpis": {
+    "category": "output"
+  },
+  "demandAllocationResults": {
+    "category": "output"
+  },
+  "productionResults": {
+    "category": "output"
+  },
+  "kpiResults": {
+    "category": "output"
+  },
+  "markets_inventory": {
+    "category": "output"
+  },
+  "Products": {
+    "category": "input"
+  },
+  "InitialInventory": {
+    "category": "input"
+  },
+  "Months": {
+    "category": "input"
+  },
+  "PlantProductCost": {
+    "category": "input"
+  },
+  "PlantMonthCapacity": {
+    "category": "input"
+  },
+  "PlantProductCapacity": {
+    "category": "input"
+  },
+  "Markets": {
+    "category": "input"
+  },
+  "executed_sales": {
+    "category": "output"
+  },
+  "production": {
+    "category": "output"
+  },
+  "Period": {
+    "category": "input"
+  },
+  "FirmSales": {
+    "category": "input"
+  },
+  "MarginalProfit": {
+    "category": "input"
+  },
+  "Demand": {
+    "category": "input"
+  }
+}

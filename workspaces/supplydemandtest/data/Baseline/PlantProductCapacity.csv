@@ -1,0 +1,295 @@
+Plants,Products,value
+Houston,200S,3013.502054660494
+Houston,300S,1330.637270889049
+Houston,600S,3196.138542821736
+Houston,626S,2139.45600417455
+Houston,676S,3000.456591220406
+Houston,676RS,2935.229274019962
+Houston,900S,626.1822451242585
+Houston,929S,1461.091905289936
+Houston,996S,1161.046246167896
+Houston,996RS,3209.184006261825
+Houston,RoadStar,2674.320005218187
+Houston,RoadLiner,2583.001761137567
+Houston,Victory,3561.41151914422
+Houston,Boulevard,3104.820298741116
+Houston,KingTwin,2817.820103059163
+Houston,MegaTwin,1695.910247211534
+Houston,ST900,1043.637075207098
+Houston,ST1200,2374.274346096147
+Houston,ST1200R,939.2733676863878
+Houston,Bandit 900,1904.637662252953
+Houston,Bandit 1200,1526.31922249038
+Houston,Bandit 1200S,3065.683908420849
+Houston,Enduro 350,3130.911225621293
+Houston,Enduro 450,717.5004892048796
+Houston,Enduro 550,2804.774639619075
+Houston,CRX500,1082.773465527364
+Houston,CRS550,1252.364490248517
+Houston,CRX600,1056.682538647186
+Houston,CRX650,1800.273954732243
+Houston,Street#,0
+Houston,Cruiser#,0
+Houston,Touring#,0
+Houston,Off-Road#,0
+Houston,Total Product Types#,0
+Houston,Total Product Maturities#,0
+Houston,Phase-Out#,0
+Houston,Established#,0
+Houston,New Introduction#,0
+Houston,Total Product Price Level#,0
+Houston,Entry Level#,0
+Houston,Mid-Range#,0
+Houston,High-End#,0
+Dallas,200S,991.4552214467427
+Dallas,300S,3300.502250342446
+Dallas,600S,1591.546539690824
+Dallas,626S,1278.455417128694
+Dallas,676S,3183.093079381647
+Dallas,676RS,469.6366838431939
+Dallas,900S,443.5457569630165
+Dallas,929S,2361.228882656058
+Dallas,996S,2243.81971169526
+Dallas,996RS,1943.774052573219
+Dallas,RoadStar,3417.911421303244
+Dallas,RoadLiner,1369.773661209316
+Dallas,Victory,2022.046833213751
+Dallas,Boulevard,2569.956297697478
+Dallas,KingTwin,534.8640010436375
+Dallas,MegaTwin,2322.092492335792
+Dallas,ST900,404.4093666427503
+Dallas,ST1200,1069.728002087275
+Dallas,ST1200R,2426.456199856502
+Dallas,Bandit 900,2687.365468658276
+Dallas,Bandit 1200,1526.31922249038
+Dallas,Bandit 1200S,2700.410932098365
+Dallas,Enduro 350,560.9549279238149
+Dallas,Enduro 450,2087.274150414195
+Dallas,Enduro 550,1356.728197769227
+Dallas,CRX500,2100.319613854284
+Dallas,CRS550,1121.90985584763
+Dallas,CRX600,1630.68293001109
+Dallas,CRX650,456.5912204031051
+Dallas,Street#,0
+Dallas,Cruiser#,0
+Dallas,Touring#,0
+Dallas,Off-Road#,0
+Dallas,Total Product Types#,0
+Dallas,Total Product Maturities#,0
+Dallas,Phase-Out#,0
+Dallas,Established#,0
+Dallas,New Introduction#,0
+Dallas,Total Product Price Level#,0
+Dallas,Entry Level#,0
+Dallas,Mid-Range#,0
+Dallas,High-End#,0
+Los Angeles,200S,1161.046246167896
+Los Angeles,300S,795.7732698454118
+Los Angeles,600S,1526.31922249038
+Los Angeles,626S,2778.683712738898
+Los Angeles,676S,626.1822451242585
+Los Angeles,676RS,1813.319418172332
+Los Angeles,900S,2035.09229665384
+Los Angeles,929S,1448.046441849848
+Los Angeles,996S,2661.274541778098
+Los Angeles,996RS,469.6366838431939
+Los Angeles,RoadStar,1865.501271932687
+Los Angeles,RoadLiner,861.0005870458555
+Los Angeles,Victory,3287.456786902357
+Los Angeles,Boulevard,1891.592198812864
+Los Angeles,KingTwin,2204.683321374993
+Los Angeles,MegaTwin,3404.865957863156
+Los Angeles,ST900,2087.274150414195
+Los Angeles,ST1200,730.5459526449682
+Los Angeles,ST1200R,2282.956102015526
+Los Angeles,Bandit 900,1448.046441849848
+Los Angeles,Bandit 1200,3548.366055704132
+Los Angeles,Bandit 1200S,1148.000782727807
+Los Angeles,Enduro 350,2935.229274019962
+Los Angeles,Enduro 450,2191.637857934905
+Los Angeles,Enduro 550,482.6821472832826
+Los Angeles,CRX500,1591.546539690824
+Los Angeles,CRS550,1917.683125693042
+Los Angeles,CRX600,1643.728393451179
+Los Angeles,CRX650,3574.456982584309
+Los Angeles,Street#,0
+Los Angeles,Cruiser#,0
+Los Angeles,Touring#,0
+Los Angeles,Off-Road#,0
+Los Angeles,Total Product Types#,0
+Los Angeles,Total Product Maturities#,0
+Los Angeles,Phase-Out#,0
+Los Angeles,Established#,0
+Los Angeles,New Introduction#,0
+Los Angeles,Total Product Price Level#,0
+Los Angeles,Entry Level#,0
+Los Angeles,Mid-Range#,0
+Los Angeles,High-End#,0
+Mexico,200S,691.4095623247022
+Mexico,300S,3378.775030982979
+Mexico,600S,1043.637075207098
+Mexico,626S,3117.865762181204
+Mexico,676S,991.4552214467427
+Mexico,676RS,430.5002935229277
+Mexico,900S,1043.637075207098
+Mexico,929S,391.3639032026616
+Mexico,996S,795.7732698454118
+Mexico,996RS,3365.72956754289
+Mexico,RoadStar,2296.001565455615
+Mexico,RoadLiner,2948.27473746005
+Mexico,Victory,2191.637857934905
+Mexico,Boulevard,2074.228686974107
+Mexico,KingTwin,3522.275128823955
+Mexico,MegaTwin,1069.728002087275
+Mexico,ST900,1004.500684886831
+Mexico,ST1200,2139.45600417455
+Mexico,ST1200R,1982.910442893485
+Mexico,Bandit 900,1826.364881612421
+Mexico,Bandit 1200,3535.320592264043
+Mexico,Bandit 1200S,1565.455612810647
+Mexico,Enduro 350,626.1822451242585
+Mexico,Enduro 450,1591.546539690824
+Mexico,Enduro 550,2935.229274019962
+Mexico,CRX500,2426.456199856502
+Mexico,CRS550,2439.501663296591
+Mexico,CRX600,834.909660165678
+Mexico,CRX650,1448.046441849848
+Mexico,Street#,0
+Mexico,Cruiser#,0
+Mexico,Touring#,0
+Mexico,Off-Road#,0
+Mexico,Total Product Types#,0
+Mexico,Total Product Maturities#,0
+Mexico,Phase-Out#,0
+Mexico,Established#,0
+Mexico,New Introduction#,0
+Mexico,Total Product Price Level#,0
+Mexico,Entry Level#,0
+Mexico,Mid-Range#,0
+Mexico,High-End#,0
+Toledo,200S,547.9094644837262
+Toledo,300S,1578.501076250735
+Toledo,600S,3157.00215250147
+Toledo,626S,2817.820103059163
+Toledo,676S,1343.682734329138
+Toledo,676RS,3430.956884743333
+Toledo,900S,887.0915139260329
+Toledo,929S,965.3642945665653
+Toledo,996S,743.5914160850571
+Toledo,996RS,3326.593177222624
+Toledo,RoadStar,2256.865175135349
+Toledo,RoadLiner,2765.638249298809
+Toledo,Victory,626.1822451242585
+Toledo,Boulevard,1643.728393451179
+Toledo,KingTwin,3430.956884743333
+Toledo,MegaTwin,3365.72956754289
+Toledo,ST900,2335.137955775881
+Toledo,ST1200,1239.319026808428
+Toledo,ST1200R,2817.820103059163
+Toledo,Bandit 900,3091.774835301027
+Toledo,Bandit 1200,1461.091905289936
+Toledo,Bandit 1200S,1461.091905289936
+Toledo,Enduro 350,2387.319809536235
+Toledo,Enduro 450,1539.364685930469
+Toledo,Enduro 550,3483.138738503688
+Toledo,CRX500,2543.8653708173
+Toledo,CRS550,1682.864783771445
+Toledo,CRX600,1865.501271932687
+Toledo,CRX650,1356.728197769227
+Toledo,Street#,0
+Toledo,Cruiser#,0
+Toledo,Touring#,0
+Toledo,Off-Road#,0
+Toledo,Total Product Types#,0
+Toledo,Total Product Maturities#,0
+Toledo,Phase-Out#,0
+Toledo,Established#,0
+Toledo,New Introduction#,0
+Toledo,Total Product Price Level#,0
+Toledo,Entry Level#,0
+Toledo,Mid-Range#,0
+Toledo,High-End#,0
+Bucarest,200S,2739.547322418631
+Bucarest,300S,1095.818928967452
+Bucarest,600S,3274.411323462269
+Bucarest,626S,2543.8653708173
+Bucarest,676S,1265.409953688606
+Bucarest,676RS,1982.910442893485
+Bucarest,900S,2791.729176178986
+Bucarest,929S,3483.138738503688
+Bucarest,996S,574.0003913639036
+Bucarest,996RS,1969.864979453397
+Bucarest,RoadStar,1956.819516013308
+Bucarest,RoadLiner,847.9551236057669
+Bucarest,Victory,3574.456982584309
+Bucarest,Boulevard,2256.865175135349
+Bucarest,KingTwin,2478.638053616857
+Bucarest,MegaTwin,2126.410540734461
+Bucarest,ST900,2817.820103059163
+Bucarest,ST1200,2661.274541778098
+Bucarest,ST1200R,2700.410932098365
+Bucarest,Bandit 900,3496.184201943777
+Bucarest,Bandit 1200,2622.138151457833
+Bucarest,Bandit 1200S,521.8185376035487
+Bucarest,Enduro 350,2883.047420259607
+Bucarest,Enduro 450,2909.138347139784
+Bucarest,Enduro 550,2517.774443937123
+Bucarest,CRX500,1643.728393451179
+Bucarest,CRS550,861.0005870458555
+Bucarest,CRX600,3143.956689061381
+Bucarest,CRX650,2843.911029939341
+Bucarest,Street#,0
+Bucarest,Cruiser#,0
+Bucarest,Touring#,0
+Bucarest,Off-Road#,0
+Bucarest,Total Product Types#,0
+Bucarest,Total Product Maturities#,0
+Bucarest,Phase-Out#,0
+Bucarest,Established#,0
+Bucarest,New Introduction#,0
+Bucarest,Total Product Price Level#,0
+Bucarest,Entry Level#,0
+Bucarest,Mid-Range#,0
+Bucarest,High-End#,0
+Shanghai,200S,1682.864783771445
+Shanghai,300S,1552.410149370558
+Shanghai,600S,1474.137368730025
+Shanghai,626S,3457.047811623511
+Shanghai,676S,2556.910834257389
+Shanghai,676RS,469.6366838431939
+Shanghai,900S,2961.320200900139
+Shanghai,929S,1539.364685930469
+Shanghai,996S,404.4093666427503
+Shanghai,996RS,1487.182832170114
+Shanghai,RoadStar,900.1369773661216
+Shanghai,RoadLiner,404.4093666427503
+Shanghai,Victory,2752.59278585872
+Shanghai,Boulevard,2191.637857934905
+Shanghai,KingTwin,1904.637662252953
+Shanghai,MegaTwin,1330.637270889049
+Shanghai,ST900,2987.411127780317
+Shanghai,ST1200,756.6368795251458
+Shanghai,ST1200R,1369.773661209316
+Shanghai,Bandit 900,2452.547126736679
+Shanghai,Bandit 1200,913.1824408062103
+Shanghai,Bandit 1200S,3130.911225621293
+Shanghai,Enduro 350,1526.31922249038
+Shanghai,Enduro 450,2204.683321374993
+Shanghai,Enduro 550,2009.001369773663
+Shanghai,CRX500,3470.093275063599
+Shanghai,CRS550,3404.865957863156
+Shanghai,CRX600,1526.31922249038
+Shanghai,CRX650,939.2733676863878
+Shanghai,Street#,0
+Shanghai,Cruiser#,0
+Shanghai,Touring#,0
+Shanghai,Off-Road#,0
+Shanghai,Total Product Types#,0
+Shanghai,Total Product Maturities#,0
+Shanghai,Phase-Out#,0
+Shanghai,Established#,0
+Shanghai,New Introduction#,0
+Shanghai,Total Product Price Level#,0
+Shanghai,Entry Level#,0
+Shanghai,Mid-Range#,0
+Shanghai,High-End#,0

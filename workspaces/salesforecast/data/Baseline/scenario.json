@@ -1,0 +1,11 @@
+{
+  "Outcome": {
+    "category": "output"
+  },
+  "Outcome_Push_PA": {
+    "category": "output"
+  },
+  "Sales_Get_PA": {
+    "category": "input"
+  }
+}
